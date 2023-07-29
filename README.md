@@ -4,7 +4,7 @@ Uma forma de vender cuscuz quentinho, chamar clientes para consumir mais, site t
 
 # Link da Página
 
-[**https://danrleisnob.github.io/explorersipecdecipex/**]
+[https://danrleisnob.github.io/Cuscuzarretado/]
 
 # 🛠 Tecnologias
 
